@@ -1,2 +1,3 @@
 making changes to check push command
 adding to merge to main branch
+adding to check merging the branch on remote
